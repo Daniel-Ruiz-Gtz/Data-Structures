@@ -16,7 +16,7 @@ Welcome to the Python Data Structures repository! This project provides simple a
 Enter each folder in the data structure, and you will be able to review a Markdown document with relevant information, along with a Python file containing the practical example.
 
 ```bash
-python -m dataStructure.py
+python -m main.py
 ```
 
 ## Contributing
