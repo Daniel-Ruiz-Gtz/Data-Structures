@@ -11,6 +11,8 @@ Welcome to the Python Data Structures repository! This project provides simple a
 - **Graph**: A collection of nodes connected by edges.
 - **Hash Table**: A data structure that maps keys to values using a hash function.
 
+Each data structure is implemented in its dedicated Python module within the `data_structures` package.
+
 ## How to Use
 
 Enter each folder in the data structure, and you will be able to review a Markdown document with relevant information, along with a Python file containing the practical example.
